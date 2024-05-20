@@ -1,8 +1,8 @@
 
 MD MASUM BILLAH
-#### Web Developer
+Software Developer | Entrepreneur
 
-I am a Web Developer,MERN
+Web Developer,MERN
 
 Skills: HTML / CSS / VUE JS / REACT / JS / 
 
